@@ -25,6 +25,6 @@ Requires: chef-server
 %setup -qn %{name}-%{version}
 
 %changelog
-* Wed May 11 2016 Juan J. Prieto <jjprieto@redborder.com> - 1.0.0-1
+* Wed Jun 22 2016 Alberto Rodríguez <arodriguez@redborder.com> - 1.0.0-1
 - first spec version
 

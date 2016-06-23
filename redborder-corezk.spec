@@ -17,7 +17,7 @@ Requires: zookeeper
 Requires: rb_monitor
 Requires: rb-discover
 Requires: memcached
-Requires: chef-server
+Requires: chef-server-core
 
 %description
 %{summary}

@@ -31,7 +31,7 @@ srpm: build_prepare
 		--define "__release $(BUILD_NUMBER)" \
 		--resultdir=$(RESULT_DIR) \
 		--buildsrpm \
-		--spec=rb_monitor.spec \
+		--spec=redborder-corezk.spec \
 		--sources=SOURCES
 	@echo "======= Source RPM now available in $(RESULT_DIR) ======="
 

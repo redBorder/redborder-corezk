@@ -18,6 +18,7 @@ Requires: rb_monitor
 Requires: rb-discover
 Requires: memcached
 Requires: chef-server-core
+Requires: postgresql-pgpool-II
 
 %description
 %{summary}
@@ -36,6 +37,6 @@ install -D -m 0644 README.md %{buildroot}/usr/share/%{name}
 /usr/share/%{name}
 
 %changelog
-* Wed May 11 2016 Juan J. Prieto <jjprieto@redborder.com> - 1.0.0-1
+* Fri Jun 24 2016 Alberto Rodriguez <arodriguez@redborder.com> - 1.0.0-1
 - first spec version
 

@@ -10,3 +10,4 @@ It includes the following services:
 - rb-discover (https://github.com/redBorder/rb-discover)
 - memcached (https://github.com/memcached/memcached)
 - chef-server (https://github.com/chef/chef-server)
+- pgpool 

@@ -37,6 +37,6 @@ install -D -m 0644 README.md %{buildroot}/usr/share/%{name}
 /usr/share/%{name}
 
 %changelog
-* Fri Jun 24 2016 Alberto Rodriguez <arodriguez@redborder.com> - 1.0.0-1
+* Wed Jun 22 2016 Alberto Rodríguez <arodriguez@redborder.com> - 1.0.0-1
 - first spec version
 
